@@ -1,0 +1,35 @@
+body{
+	margin: 0;
+	padding: 200px 0 100px;
+	background-color: black;
+}
+.container{
+	margin: 0 auto;
+	width: 50%;
+	border: 5px solid lightyellow;
+
+}
+.controller{
+	text-align: center;
+	padding: 20px;
+}
+.bi-heart-arrow{
+	margin: 20px;
+	font-size: 100px;
+    color: yellowgreen;
+}
+.bi-heart-fill{
+	margin: 20px;
+	font-size: 100px;
+    color: coral;
+}
+.bi-heart-half{
+	margin: 20px;
+	font-size: 100px;
+    color: whitesmoke;
+}
+.bi-tencent-qq {
+	margin: 20px;
+	font-size: 100px;
+    color: lightyellow;
+}
